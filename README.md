@@ -33,20 +33,20 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 
 ## 🧪 Projects  
 
-### 🧿 **SOC Analyst Lab (LetsDefend Path)**  
-- Analysed phishing emails, triaged alerts, and correlated logs using **Splunk**.  
-- Executed malware analysis in sandbox environments using **Strings**, **Binwalk**, and **oletools**.  
-- Applied **MITRE ATT&CK** techniques to identify lateral movement and brute-force patterns.  
+### 🧰 **Home Malware & SOC Telemetry Lab**  
+- Built a virtual SOC environment with **Splunk**, **Sysmon**, **Kali Linux**, and **Metasploit**.  
+- Simulated attack chains and captured telemetry for incident investigation.
+- Found here: <a href="https://github.com/nicsecurity1/Cybersecurity-Malware-Lab-Project">Home Malware & SOC Telemtry Lab</a>
 
 ### 🌐 **Web Application Threat Detection (SQL Injection Payload Detection and Triage)**  
 - Detected and analysed SQL injection attempts using **ZAP**, **VirusTotal**, and **ArcSight**.  
 - Documented findings and proposed remediation strategies based on **OWASP Top 10**.
 - Found here: <a href="https://github.com/nicsecurity1/SQL-Injection-Payload-Detection-and-Triage/tree/main">SQL Injection Payload Detection and Triage</a>
 
-### 🧰 **Home Malware & SOC Telemetry Lab**  
-- Built a virtual SOC environment with **Splunk**, **Sysmon**, **Kali Linux**, and **Metasploit**.  
-- Simulated attack chains and captured telemetry for incident investigation.
-- Found here: <a href="https://github.com/nicsecurity1/Cybersecurity-Malware-Lab-Project">Home Malware & SOC Telemtry Lab</a>
+### 🧿 **SOC Analyst Lab (LetsDefend Path)**  
+- Analysed phishing emails, triaged alerts, and correlated logs using **Splunk**.  
+- Executed malware analysis in sandbox environments using **Strings**, **Binwalk**, and **oletools**.  
+- Applied **MITRE ATT&CK** techniques to identify lateral movement and brute-force patterns.  
 
 ---
 

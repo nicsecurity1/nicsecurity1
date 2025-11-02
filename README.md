@@ -31,23 +31,6 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 
 ---
 
-## 🧩 Experience  
-
-### 💼 **Technical Support Analyst** — *The College of Law, Sydney*  
-**Mar 2023 – May 2025**  
-- Led MFA rollout via Microsoft Authenticator for 250+ users, reducing identity risks by 30%.  
-- Investigated phishing incidents and enforced IAM controls in **Azure AD** and **Entra ID**.  
-- Managed endpoint compliance through **Intune** and **Defender for Office 365**.  
-- Monitored login anomalies and improved detection of unauthorized access attempts.  
-- Delivered cybersecurity awareness sessions for 100+ staff.  
-
-### 💻 **IT Support Intern** — *Cloud4X, Sydney*  
-**Jun 2022 – Dec 2022**  
-- Assisted with secure OS deployments and endpoint hardening.  
-- Supported IT staff in account provisioning and issue resolution.  
-
----
-
 ## 🧪 Projects  
 
 ### 🧿 **SOC Analyst Lab (LetsDefend Path)**  
@@ -61,15 +44,8 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 
 ### 🧰 **Home Malware & SOC Telemetry Lab**  
 - Built a virtual SOC environment with **Splunk**, **Sysmon**, **Kali Linux**, and **Metasploit**.  
-- Simulated attack chains and captured telemetry for incident investigation.  
-
----
-
-## 🎓 Education  
-
-**Bachelor of Science in Information Technology**  
-*University of Technology Sydney (2021 – 2025)*  
-> Focus areas: Network Security, Ethical Hacking, Risk Management  
+- Simulated attack chains and captured telemetry for incident investigation.
+- Found here: <a href="https://github.com/nicsecurity1/Cybersecurity-Malware-Lab-Project">Home Malware & SOC Telemtry Lab</a>
 
 ---
 

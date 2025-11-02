@@ -43,7 +43,7 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 - Documented findings and proposed remediation strategies based on **OWASP Top 10**.
 - Found here: <a href="https://github.com/nicsecurity1/SQL-Injection-Payload-Detection-and-Triage/tree/main">SQL Injection Payload Detection and Triage</a>
 
-### 🛡️ **Project Focus: Network Forensics and Credential Theft Analysis**
+### 🛡️ **Network Forensics and Credential Theft Analysis**
 - Conducted a deep forensic analysis of a **Link-Local Multicast Name Resolution (LLMNR) and NetBIOS Name Service (NBT-NS) Poisoning attack** using captured network traffic.
 - Successfully identified the **rogue machine**, mapped all **affected hosts**, extracted **compromised user credentials**, and determined the attacker's **lateral movement attempt** via SMB.
 - NetworkMiner and Wireshark for PCAP analysis and artifact extraction.

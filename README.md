@@ -38,7 +38,7 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 - Executed malware analysis in sandbox environments using **Strings**, **Binwalk**, and **oletools**.  
 - Applied **MITRE ATT&CK** techniques to identify lateral movement and brute-force patterns.  
 
-### 🌐 **Web Application Threat Detection (SQL Injection Case Study)**  
+### 🌐 **Web Application Threat Detection (SQL Injection Payload Detection and Triage)**  
 - Detected and analysed SQL injection attempts using **ZAP**, **VirusTotal**, and **ArcSight**.  
 - Documented findings and proposed remediation strategies based on **OWASP Top 10**.  
 

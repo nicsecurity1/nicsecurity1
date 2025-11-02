@@ -45,9 +45,14 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 
 ### 🛡️ **Network Forensics and Credential Theft Analysis**
 - Conducted a deep forensic analysis of a **Link-Local Multicast Name Resolution (LLMNR) and NetBIOS Name Service (NBT-NS) Poisoning attack** using captured network traffic.
-- Successfully identified the **rogue machine**, mapped all **affected hosts**, extracted **compromised user credentials**, and determined the attacker's **lateral movement attempt** via SMB.
+- Successfully identified the rogue machine, mapped all affected hosts, extracted compromised user credentials, and determined the attacker's lateral movement attempt via SMB.
 - NetworkMiner and Wireshark for PCAP analysis and artifact extraction.
 - Found here: <a href="https://github.com/nicsecurity1/LLMNR-NBT-NS-Poisoning-and-Credential-Theft/tree/main">Network Forensics and Credential Theft Analysis</a>
+
+### 💀 Critical Incident Response (SharePoint RCE and Machine Key Theft)
+- Analyzed a multi-stage RCE exploit (CVE-2025-53770) by correlating **Web Logs**, **EDR telemetry**, and **VirusTotal** analysis.
+- Identified the full kill chain, including authentication bypass, webshell deployment, and cryptographic machine key theft.
+- Found here: <a href="https://github.com/nicsecurity1/SharePoint-ToolShell-Auth-Bypass-and-RCE">SharePoint ToolShell Auth Bypass and RCE</a>
 
 ### 🧿 **SOC Analyst Lab (LetsDefend Path)**  
 - Analysed phishing emails, triaged alerts, and correlated logs using **Splunk**.  

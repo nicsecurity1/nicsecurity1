@@ -84,7 +84,7 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 
 ## 💬 Let's Connect  
 
-I’m open to **SOC Analyst**, **Cyber Security Graduate**, or **Threat Detection** roles.  
+I’m open to **SOC Analyst**, **Cyber Security Graduate**, or **Security Engineer** roles.  
 If you’re building secure systems or want to collaborate on blue team projects — let’s chat!  
 
 📩 [Email Me](mailto:nabil.ihteshamchowdhury@hotmail.com)  

@@ -41,18 +41,24 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 ### 🌐 **Web Application Threat Detection (SQL Injection Payload Detection and Triage)**  
 - Detected and analysed SQL injection attempts using **ZAP**, **VirusTotal**, and **ArcSight**.  
 - Documented findings and proposed remediation strategies based on **OWASP Top 10**.
-- Found here: <a href="https://github.com/nicsecurity1/SQL-Injection-Payload-Detection-and-Triage/tree/main">SQL Injection Payload Detection and Triage</a>
+- Found here: <a href="https://github.com/nicsecurity1/SQL-Injection-Payload-Detection-and-Triage">SQL Injection Payload Detection and Triage</a>
 
 ### 🛡️ **Network Forensics and Credential Theft Analysis**
 - Conducted a deep forensic analysis of a **Link-Local Multicast Name Resolution (LLMNR) and NetBIOS Name Service (NBT-NS) Poisoning attack** using captured network traffic.
 - Successfully identified the rogue machine, mapped all affected hosts, extracted compromised user credentials, and determined the attacker's lateral movement attempt via SMB.
 - NetworkMiner and Wireshark for PCAP analysis and artifact extraction.
-- Found here: <a href="https://github.com/nicsecurity1/LLMNR-NBT-NS-Poisoning-and-Credential-Theft/tree/main">Network Forensics and Credential Theft Analysis</a>
+- Found here: <a href="https://github.com/nicsecurity1/LLMNR-NBT-NS-Poisoning-and-Credential-Theft">Network Forensics and Credential Theft Analysis</a>
 
 ### 💀 Critical Incident Response (SharePoint RCE and Machine Key Theft)
 - Analyzed a multi-stage RCE exploit (CVE-2025-53770) by correlating **Web Logs**, **EDR telemetry**, and **VirusTotal** analysis.
 - Identified the full kill chain, including authentication bypass, webshell deployment, and cryptographic machine key theft.
 - Found here: <a href="https://github.com/nicsecurity1/SharePoint-ToolShell-Auth-Bypass-and-RCE">SharePoint ToolShell Auth Bypass and RCE</a>
+
+### 🕵️ Insider Threat Investigation (OSINT & Digital Forensics)
+
+- Identified and profiled a malicious insider using OSINT techniques (GitHub, social media, reverse image search).
+- Extracted critical artifacts including Base64 decoded passwords, API keys, and malware (xmrig) from digital evidence.
+- Found here: <a href="https://github.com/nicsecurity1/Insider-Threat-Investigation">Insider Threat Investigation</a>
 
 ### 🧿 **SOC Analyst Lab (LetsDefend Path)**  
 - Analysed phishing emails, triaged alerts, and correlated logs using **Splunk**.  

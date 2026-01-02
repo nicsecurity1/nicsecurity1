@@ -29,6 +29,12 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 | **Frameworks & Standards** | MITRE ATT&CK, ISO 27001, Essential Eight |
 | **Productivity & Collaboration** | MS Exchange, Salesforce, TeamViewer |
 
+| **Network Forensics** | MS Exchange, Salesforce, TeamViewer |
+| **Threat Intel** | MS Exchange, Salesforce, TeamViewer |
+| **Endpoint Forensics** | MS Exchange, Salesforce, TeamViewer |
+| **Threat Hunting** | MS Exchange, Salesforce, TeamViewer |
+| **Cloud Forensics** | MS Exchange, Salesforce, TeamViewer |
+
 ---
 
 ## 🧪 Projects  

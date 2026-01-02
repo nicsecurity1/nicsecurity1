@@ -28,7 +28,6 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 | **Identity & Access Management** | Azure AD, Entra ID, Intune, Microsoft 365, AVD |
 | **Frameworks & Standards** | MITRE ATT&CK, ISO 27001, Essential Eight |
 | **Productivity & Collaboration** | MS Exchange, Salesforce, TeamViewer |
-
 | **Network Forensics** | MS Exchange, Salesforce, TeamViewer |
 | **Threat Intel** | MS Exchange, Salesforce, TeamViewer |
 | **Endpoint Forensics** | MS Exchange, Salesforce, TeamViewer |

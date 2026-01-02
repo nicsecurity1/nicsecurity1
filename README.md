@@ -20,19 +20,18 @@ My approach combines **technical depth**, **process discipline**, and a **contin
 
 | Domain | Tools & Technologies |
 |:--|:--|
-| **Threat Analysis & Monitoring** | SIEM (Splunk, Sentinel), IDS/IPS, MS Defender (EDR/XDR) |
 | **Vulnerability Management** | OpenVAS |
 | **Network Security** | TCP/IP, DNS, VPNs, Firewalls, Packet Analysis |
 | **Scripting & OS** | Kali Linux, Bash, PowerShell, SQL |
-| **Security Tools** | Wireshark, Nmap, Metasploit, Hydra, ServiceNow |
+| **Security Tools** | Metasploit, Hydra, ServiceNow |
 | **Identity & Access Management** | Azure AD, Entra ID, Intune, Microsoft 365, AVD |
 | **Frameworks & Standards** | MITRE ATT&CK, ISO 27001, Essential Eight |
 | **Productivity & Collaboration** | MS Exchange, Salesforce, TeamViewer |
-| **Network Forensics** | MS Exchange, Salesforce, TeamViewer |
-| **Threat Intel** | MS Exchange, Salesforce, TeamViewer |
-| **Endpoint Forensics** | MS Exchange, Salesforce, TeamViewer |
-| **Threat Hunting** | MS Exchange, Salesforce, TeamViewer |
-| **Cloud Forensics** | MS Exchange, Salesforce, TeamViewer |
+| **Network Forensics** | Wireshark, Nmap, NetworkMiner, Brim |
+| **Threat Intel** | VirusTotal, Any.run, Whois, MalwareBazaar, ThreatFox, Tria.ge, Text Editor, Red Canary, Sherlock|
+| **Endpoint Forensics** | Volatility 3, ALEAPP, DB Broswer for SQLite, FTK Imager, Strings |
+| **Threat Hunting** | Splunk, ELK, Sentinel, MS Defender, OSINT |
+| **Cloud Forensics** | Splunk (Level 4 remaining, make sure to add) |
 
 ---
 
